@@ -1,10 +1,10 @@
 # Open Source Code from the Spryngtime team!
 
-https://www.spryngtime.com/
+https://www.usespryngtime.com/
 
 What does Spryngtime do?
 
-We build AI for customer success, ranging from chatbots for customer support to chatbots to drive lead conversion! We're a Y Combinator backed company.
+We build SDKs and tools for AI companies to track usage, analytics, and billing. 
 
 Why do you have Open Source code?
 
